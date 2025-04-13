@@ -1,0 +1,7 @@
+.text h1{
+  font-family: "Lucida Handwriting", cursive;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

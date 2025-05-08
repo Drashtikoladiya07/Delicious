@@ -35,6 +35,7 @@ import "slick-carousel/slick/slick-theme.css";
 function Home() {
     const settings = {
         dots: false,
+        arrows: false,
         infinite: true,
         speed: 500,
         slidesToShow: 1,
